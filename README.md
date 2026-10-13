@@ -1,5 +1,3 @@
-# Uber-Demand-Gap-Analysis
-An end-to-end data analytics project investigating Uber ride request outcomes, driver cancellations, and car availability using Excel, MySQL, Python, Pandas, and data visualization.
 # Uber Supply–Demand Gap Analysis
 
 ## Project Overview
